@@ -11,5 +11,9 @@ Well it's a game why don't you go ahead and try it yourself first. So what it do
 |:--:| :--:|
 | **Win** | **Loose** |
 
+The flow chart:
+
+<img width="498" alt="Amended+Hangman+Flowchart" src="https://user-images.githubusercontent.com/38079818/140611715-b4b6491f-df07-491b-aa03-2ef57383803a.png">
+
 
 
