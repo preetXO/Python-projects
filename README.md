@@ -1,4 +1,5 @@
 # Python-projects
+## Basic projects 
 List of all the python projects
 The order is as follows (click on the name of the project to go to the file and run it yourself): 
 1) [Password Generator](https://replit.com/@preetpalsinghsp/password-generator-start#Password%20Generator.py)
