@@ -15,7 +15,7 @@ The flow chart:
 
 <img width="498" alt="Amended+Hangman+Flowchart" src="https://user-images.githubusercontent.com/38079818/140611715-b4b6491f-df07-491b-aa03-2ef57383803a.png">
 
-3) This is a high low game, in this you have to guess which of the shown celebrity has higher number of followers on instagram. if you get it right you move to the next round else the game ends when you get your choice wrong.
+3) [Hihg-low](https://replit.com/@preetpalsinghsp/higher-lower-start#main.py)This is a high low game, in this you have to guess which of the shown celebrity has higher number of followers on instagram. if you get it right you move to the next round else the game ends when you get your choice wrong.
 
 you can try an online version of this game here:
 http://www.higherlowergame.com/
