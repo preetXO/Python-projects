@@ -22,7 +22,7 @@ The flow chart:
  
 3. [High-low](https://replit.com/@preetpalsinghsp/higher-lower-start#main.py)This is a high low game, in this you have to guess which of the shown celebrity has higher number of followers on instagram. if you get it right you move to the next round else the game ends when you get a choice wrong.
 
-        you can try an online version of this game here:
+      you can try an online version of this game here:
         http://www.higherlowergame.com/
 
 | ![](images/winhigh.gif) |
