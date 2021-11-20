@@ -29,4 +29,8 @@ The flow chart:
 |:--:|
 | **Example of the program** |
 
-
+4. [Turtle race](https://replit.com/@preetpalsinghsp/Turtle-race#main.py)
+ This program demonstrates a turtle race where a user can bet on any turtle through an interative input box. This game can be used to play bets between friends :)
+ | ![](images/turtlerace.gif) |
+ |:--:|
+| **Example of the program** |
