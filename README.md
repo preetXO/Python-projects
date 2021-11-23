@@ -38,4 +38,16 @@ The flow chart:
 
 5. [Snake game](https://github.com/preetpalsinghspat/Python-projects/tree/main/Snake%20game)
 
- This is an example of the classis snake game which you might have played in the oldest nokia phones, it was build with the help of turtle framework. Go ahead click on the snake game title to play the game yourself.
+ This is an example of the classis snake game which you might have played in the oldest nokia phones, it was build with the help of turtle framework. Go ahead click on the snake   game title to play the game yoursel.
+ 
+ It also keep tracks of the highscores using file handling
+ 
+| ![](images/snake.gif) |
+|:--:|
+| **Example of the program** |
+ 
+ 
+ 6. [Ping Pong](...)
+ 
+ This is the famous ping pong game built in pthon with the help of turtle module. You can play this game with two players even on a single computer.
+ 
