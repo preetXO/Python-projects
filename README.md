@@ -36,6 +36,6 @@ The flow chart:
 |:--:|
 | **Example of the program** |
 
-5. [Snake game](...)
+5. [Snake game](https://github.com/preetpalsinghspat/Python-projects/tree/main/Snake%20game)
 
  This is an example of the classis snake game which you might have played in the oldest nokia phones, it was build with the help of turtle framework. Go ahead click on the snake game title to play the game yourself.
