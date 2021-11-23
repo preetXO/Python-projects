@@ -1,5 +1,9 @@
 # Python-projects
-## Basic projects 
+|**S.no**||**Name**|
+|:--:| :--:|
+|1||[Password Generator](https://replit.com/@preetpalsinghsp/password-generator-start#Password%20Generator.py)|
+
+
 List of all the python basic projects (click on the name of the project to go to the file and run it yourself): 
 1. [Password Generator](https://replit.com/@preetpalsinghsp/password-generator-start#Password%20Generator.py)
 This code generates random password based on the input given by user, the password is always gonna be a different combination of latters, numbers and symbols in a random order.
