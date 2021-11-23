@@ -1,7 +1,7 @@
 # Python-projects
-|**S.no**||**Name**|
+| **S.no** || **Name** |
 |:--:| :--:|
-|1||[Password Generator](https://replit.com/@preetpalsinghsp/password-generator-start#Password%20Generator.py)|
+| 1 || [Password Generator](https://replit.com/@preetpalsinghsp/password-generator-start#Password%20Generator.py) |
 
 
 List of all the python basic projects (click on the name of the project to go to the file and run it yourself): 
